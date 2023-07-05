@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Reservation		TAR	51	nouvelle taille enregistrement : 51
+Reservation	IDTypeChambre	RUB-		la clé IDTypeChambre est supprimée
+Contrainte_TypeChambre_Reservation		DEL	TypeChambre (IDTypeChambre) et Reservation (IDTypeChambre)	Liaison supprimée entre les fichiers TypeChambre (IDTypeChambre) et Reservation (IDTypeChambre)

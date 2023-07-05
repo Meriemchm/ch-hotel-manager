@@ -1,0 +1,7 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Chambre		TAR	29	nouvelle taille enregistrement : 29
+Chambre	IDTypeChambre	RUB+		IDTypeChambre est une nouvelle clé
+Chambre	Type	RUB-		la rubrique Type est supprimée
+Chambre	Prix	RUB-		la rubrique Prix est supprimée
+TypeChambre		NFI		nouveau fichier
+Contrainte_TypeChambre_Chambre		NWL	TypeChambre (IDTypeChambre) et Chambre (IDTypeChambre)	Nouvelle liaison entre les fichiers TypeChambre (IDTypeChambre) et Chambre (IDTypeChambre)

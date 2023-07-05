@@ -1,0 +1,4 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Reservation		TAR	55	nouvelle taille enregistrement : 55
+Reservation	DateDeb	CNW	Date (aaaammjj)$Chaîne	la rubrique DateDeb a pour nouveau type Date (aaaammjj)
+Reservation	DateFin	CNW	Date (aaaammjj)$Chaîne	la rubrique DateFin a pour nouveau type Date (aaaammjj)

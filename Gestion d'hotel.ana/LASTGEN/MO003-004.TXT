@@ -1,0 +1,4 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Reservation		TAR	242	nouvelle taille enregistrement : 242
+Reservation	Nom	RUB+		Nom est une nouvelle rubrique
+Reservation	Prenom	RUB+		Prenom est une nouvelle rubrique

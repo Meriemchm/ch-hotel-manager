@@ -1,0 +1,5 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Chambre		NFI		nouveau fichier
+Reservation		NFI		nouveau fichier
+Contrainte_Chambre_Reservation		NWL	Chambre (IDChambre) et Reservation (IDChambre)	Nouvelle liaison entre les fichiers Chambre (IDChambre) et Reservation (IDChambre)
+Contrainte_Client_Reservation		NWL	Client (IDClient) et Reservation (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Reservation (IDClient)

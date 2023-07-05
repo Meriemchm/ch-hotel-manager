@@ -1,0 +1,10 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=6	;Analysis GUID
+LOCALIZATION_UTF8=D9A46EA4288447EF961330818F97BC0D	Client	C:\Mes Projets\Gestion d'hotel\EXE\Client.fic
+LOCALIZATION_UTF8=57C46259E6E34AB2ABCEAFF74415B5C9	Chambre	C:\Mes Projets\Gestion d'hotel\EXE\Chambre.fic
+LOCALIZATION_UTF8=90395B57E4254802848983E8FFCB5038	TypeChambre	C:\Mes Projets\Gestion d'hotel\Exe\TypeChambre.fic
+LOCALIZATION_UTF8=7B4C61751B4D4214AAB1CC8A0BAED8AF	Reservation	C:\Mes Projets\Gestion d'hotel\EXE\Reservation.fic
+LOCALIZATION_UTF8=154CA1CD6FCB498ABA44D00FA556AC91	Efonction	C:\Mes Projets\Gestion d'hotel\EXE\Efonction.fic
+LOCALIZATION_UTF8=CEF830222E9C4CDAA8F4CC882B7E65E1	Employe	C:\Mes Projets\Gestion d'hotel\EXE\Employe.fic
+LOCALIZATION_UTF8=D5EFABF19D4F4278B916B267EBC41663	Presence	C:\Mes Projets\Gestion d'hotel\EXE\Presence.fic

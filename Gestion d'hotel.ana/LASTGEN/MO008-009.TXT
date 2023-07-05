@@ -1,0 +1,4 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Reservation		TAR	59	nouvelle taille enregistrement : 59
+Reservation	IDTypeChambre	RUB+		IDTypeChambre est une nouvelle clé
+Contrainte_TypeChambre_Reservation		NWL	TypeChambre (IDTypeChambre) et Reservation (IDTypeChambre)	Nouvelle liaison entre les fichiers TypeChambre (IDTypeChambre) et Reservation (IDTypeChambre)
